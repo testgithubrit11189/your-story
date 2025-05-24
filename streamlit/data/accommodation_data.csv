@@ -1,0 +1,10 @@
+type,name,rating,address
+hotel,Grand Palace Hotel,4.5,"123 Ocean Drive, Miami, FL"
+hotel,Ocean View Inn,4.2,"456 Beach Ave, Santa Monica, CA"
+hotel,The Royal Stay,4.7,"789 Royal Rd, New York, NY"
+dorm,Campus Dormitory A,3.8,"101 Campus St, Boston, MA"
+dorm,Sunrise Dorm B,4.0,"202 Student Lane, Austin, TX"
+dorm,City Dorm C,4.1,"303 Dormitory Way, Chicago, IL"
+hostel,Backpackers Hub,4.3,"12 Traveler Blvd, Denver, CO"
+hostel,Wanderer’s Hostel,4.0,"34 Youth Lane, Portland, OR"
+hostel,Nomad Nest,3.9,"56 Explorer Rd, Seattle, WA"
